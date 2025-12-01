@@ -1,0 +1,4 @@
+/chroma_db
+/venv
+.env
+agent_data.db
