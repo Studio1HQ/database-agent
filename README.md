@@ -2,6 +2,10 @@
 
 A production-ready AI agent that saves conversations to databases. Built with LangChain, GPT-4, and PostgreSQL/SQLite.
 
+## Demo
+
+![Demo](cursorful-video-1764615164579-ezgif.com-video-to-gif-converter%20(1).gif)
+
 ## What This Does
 
 This agent system:
